@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Made By: Eris Taylor Pythagoras NPC",
+        "name": "Pythagoras NPC",
+        "uuid": "671d38f3-49ad-4643-8495-8e9914c1cb26",
+        "version": [6, 3, 0],
+        "min_engine_version": [ 1, 19, 80 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "7a4546df-a94c-43de-8193-447baa75012e",
+            "version": [6, 3, 0]
+        }
+    ]
+}

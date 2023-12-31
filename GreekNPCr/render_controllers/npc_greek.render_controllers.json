@@ -1,0 +1,37 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+		"controller.render.npc_greek": {
+			"arrays": {
+				"textures": {
+					"Array.skins": [ 
+						"Texture.greek0",
+						"Texture.greek1",
+						"Texture.greek2",
+						"Texture.greek3",
+						"Texture.greek4",
+						"Texture.greek5",
+						"Texture.greek6",
+						"Texture.greek7",
+						"Texture.greek8",
+						"Texture.greek9",
+						"Texture.greek10",
+						"Texture.greek11",
+						"Texture.greek12",
+						"Texture.greek13",
+						"Texture.greek14",
+						"Texture.greek15",
+						"Texture.greek16",
+						"Texture.greek17",
+						"Texture.greek18",
+						"Texture.greek19",
+						"Texture.greek20"
+					]
+				}
+		},
+			"geometry": "Geometry.default",
+			"materials": [ { "*": "Material.default" } ],
+			"textures": [ "Array.skins[query.variant]" ]
+		}
+	}
+}

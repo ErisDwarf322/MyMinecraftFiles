@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Made By: Eris Taylor Greek NPC",
+        "name": "Greek NPC",
+        "uuid": "87d1eb0d-2a4b-4cf3-aaf3-fc636e30301b",
+        "version": [6, 3, 0],
+        "min_engine_version": [ 1, 19, 80 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "eb283756-b9a7-4032-acee-f231e94f88fa",
+            "version": [6, 3, 0]
+        }
+    ]
+}

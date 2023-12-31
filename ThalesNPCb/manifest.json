@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Made By: Eris Taylor Thales NPC",
+		"name": "Thales NPC",
+        "uuid": "ce7e196e-4b9c-4a4c-adba-b29b414d2f40",
+        "version": [ 6, 3, 0 ],
+        "min_engine_version": [ 1, 19, 80 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla behavior pack",
+            "type": "data",
+            "uuid": "47a1adaf-ca3b-4c43-b53d-bba9c0122327",
+            "version": [6, 3, 0]
+        }
+    ]
+}
